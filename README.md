@@ -53,10 +53,10 @@ Sou um Desenvolvedor FullStack com sólida experiência na construção de aplic
 
 - ✅ **AWS Cloud Practitioner – AWS**
 - ✅ **AWS re/Start + IA – Escola da Nuvem**
-- ✅ **Microsoft Azure AI Fundamentals – DIO**
+- ✅ **AWS Cloud Developer – Escola da Nuvem | 2025**
+- ✅ **AWS Cloud Architect – Escola da Nuvem | 2025**
+- ✅ **AWS Cloud Architect – Udemy | 2026**
 - ✅ **FullStack Developer – Startse Tech Academy**
-- ✅ **Curso de Java – Rocketseat**
-- ✅ **Profissão Programador – Paulo Victor Borges**
 
 ---
 
